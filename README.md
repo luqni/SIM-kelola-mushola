@@ -1,5 +1,8 @@
 # -*- Mode: org -*-
 
+* Author
+Muhammad Luqni Baehaqi
+
 * Aplikasi SIM Pengelola Mushola
 
 * Fitur Aplikasi
@@ -28,4 +31,5 @@ Untuk detilnya, lihat: http://en.wikipedia.org/wiki/Creative_Commons_licenses
 
 [0] http://q-young.blogspot.co.id
 [1] http://id.wikipedia.org/
+[2] http://www.nurulfikri.ac.id/
 
